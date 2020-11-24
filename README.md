@@ -33,7 +33,6 @@ This project was made using the follow technologies:
 
 - ✔️ Flutter
 
-- ✔️ Firebase
 
 # :bug: Issues
 
